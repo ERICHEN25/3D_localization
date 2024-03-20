@@ -4,6 +4,4 @@ In this work, we achieved 3D localization of buried object utilizing a distribut
 By categorizing inputs based on whether they originate from a symmetrical tactile array and the presence of induced shear forces, we conducted evaluations across these three scales.
 ## Evaluation
 Our results demonstrates the both presence of multiple taxels and the ability to measure shear forces are essential factors for
-accurately localizing buried objects within a 3D space. In
-addition, it points out the shear forces led by the jamming
-effect are more crucial than the normal force in 3D localization.
+accurately localizing buried objects within a 3D space. In addition, it points out the shear forces led by the jamming effect are more crucial than the normal force in 3D localization.
