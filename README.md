@@ -1,5 +1,6 @@
 # 3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor
 [![Venue](https://img.shields.io/badge/Venue-IROS%202024-blue.svg)]([https://iros2024.org](https://ieeexplore.ieee.org/document/10802276))
+
 This repository contains code for training and testing the prediction models and dataset of 100 trials of tactile raking presented in "3D Localization of Objects Buried within Granular Material Using a Distributed 3-Axis Tactile Sensor". 
 In this work, we achieved 3D localization of buried object utilizing a distributed 3-axis tactile sensor. Our approach involves a learning-based prediction model comprising three LSTM models, each dedicated to estimating the distance, direction, and depth of the buried object.
 ## Models
